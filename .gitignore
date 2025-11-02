@@ -7,3 +7,7 @@ compile_commands.json
 
 # VS Code
 .vscode/
+
+#Other files
+cpp_survival_kit.md
+Cpp Survival Kit.pdf
