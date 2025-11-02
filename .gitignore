@@ -8,6 +8,9 @@ compile_commands.json
 # VS Code
 .vscode/
 
+# Fichiers de debug macOS
+*.dSYM/
+
 #Other files
 cpp_survival_kit.md
 Cpp Survival Kit.pdf
